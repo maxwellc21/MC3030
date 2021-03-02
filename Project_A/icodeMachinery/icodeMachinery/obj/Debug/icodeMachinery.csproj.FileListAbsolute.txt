@@ -1,0 +1,10 @@
+C:\Users\mcletus\Documents\GitHub\MC3030\Project_A\icodeMachinery\icodeMachinery\bin\Debug\icodeMachinery.exe.config
+C:\Users\mcletus\Documents\GitHub\MC3030\Project_A\icodeMachinery\icodeMachinery\bin\Debug\icodeMachinery.exe
+C:\Users\mcletus\Documents\GitHub\MC3030\Project_A\icodeMachinery\icodeMachinery\bin\Debug\icodeMachinery.pdb
+C:\Users\mcletus\Documents\GitHub\MC3030\Project_A\icodeMachinery\icodeMachinery\obj\Debug\icodeMachinery.csprojResolveAssemblyReference.cache
+C:\Users\mcletus\Documents\GitHub\MC3030\Project_A\icodeMachinery\icodeMachinery\obj\Debug\icodeMachinery.Form1.resources
+C:\Users\mcletus\Documents\GitHub\MC3030\Project_A\icodeMachinery\icodeMachinery\obj\Debug\icodeMachinery.Properties.Resources.resources
+C:\Users\mcletus\Documents\GitHub\MC3030\Project_A\icodeMachinery\icodeMachinery\obj\Debug\icodeMachinery.csproj.GenerateResource.Cache
+C:\Users\mcletus\Documents\GitHub\MC3030\Project_A\icodeMachinery\icodeMachinery\obj\Debug\icodeMachinery.csproj.CoreCompileInputs.cache
+C:\Users\mcletus\Documents\GitHub\MC3030\Project_A\icodeMachinery\icodeMachinery\obj\Debug\icodeMachinery.exe
+C:\Users\mcletus\Documents\GitHub\MC3030\Project_A\icodeMachinery\icodeMachinery\obj\Debug\icodeMachinery.pdb
